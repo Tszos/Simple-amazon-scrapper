@@ -1,1 +1,2 @@
-Checking price of a an item on amazon site and triggering email when price falls below given point.
+Checking the price of a an item on amazon and triggering email when price falls below given point.
+# beautifulsoup4
